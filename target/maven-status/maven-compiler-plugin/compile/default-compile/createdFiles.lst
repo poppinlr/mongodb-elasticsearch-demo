@@ -1,0 +1,4 @@
+mongodb/demo/DemoApplication.class
+mongodb/demo/entity/MoviesInitial.class
+mongodb/demo/repository/MoviesInitialRepository.class
+mongodb/demo/controller/DemoController.class
